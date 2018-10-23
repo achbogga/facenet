@@ -92,3 +92,10 @@ ENV/
 
 # PyCharm project setting
 .idea
+
+#Data and other objects
+*.csv
+*.pkl
+*.xlsx
+*.pb
+*.npy
